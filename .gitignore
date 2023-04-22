@@ -1,0 +1,5 @@
+* .db.sqlite3
+* .manage.py
+* .models.py
+* .DS_store
+* .requirements.txt
